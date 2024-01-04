@@ -1,0 +1,118 @@
+.wrapper
+{
+background-image: url("./images/ornaments-5794746_1920.jpg");
+background-size: cover;
+background-attachment: fixed;
+padding: 15px;
+}
+
+.container
+{width: 130px;
+max-height: 40px;
+margin: 5px;
+}
+
+.row
+{display: flex;
+flex-wrap: wrap;}
+
+.button  {
+ display: flex;
+ align-items: center;
+ justify-content: left;
+width: 150px;
+max-height: 30px;
+margin: 5px;
+gap: 5px
+}
+
+summary {
+font-family: 'Afacad', sans-serif;
+font-size: 12pt;
+font-weight: bold;
+margin-left: 5px
+}
+
+h2{size: 5px;
+font-family: 'Josefin Sans', sans-serif;}
+
+img {width: 35px;}
+
+h4
+{font-family: 'Jost', sans-serif;
+}
+
+a{
+text-decoration: none;
+background-color: #E6FFDB;
+border: 0.5mm solid #2C8800;
+margin: 5px;
+color: #000;
+font-family: 'Afacad', sans-serif;}
+
+
+.alladmins, .wwwadmins
+{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+width: 50px;
+max-height: 20px;
+margin: 5px;
+gap: 5px
+}
+
+
+.notminexls
+{
+background-color: #D2E0FB;
+   border: 0.5mm solid #071952;}
+
+.mainxls
+{
+background-color: #9EDDFF;
+   border: 0.5mm solid #071952;
+font-weight: bold;
+}
+
+.otherxls
+{
+background-color: #A6F6FF;
+   border: 0.5mm solid #071952;}
+
+.temp
+{
+background-color: #FFECEC;
+   border: 0.5mm solid #5D3587;}
+
+.admin
+{
+background-color: #FFBDF7;
+   border: 0.5mm solid #5D3587;}
+
+.www
+{
+background-color: #E1AEFF;
+   border: 0.5mm solid #5D3587;} 
+
+
+.maincategory {
+background-color: #b5fc65;
+   border: 0.5mm solid #367E18;
+font-weight: bold;} 
+
+.othercategory {
+background-color: #ffff54;
+   border: 0.5mm solid #367E18;} 
+
+.block{
+background-color: #38E54D;
+   border: 0.5mm solid #367E18;} 
+
+.banner{
+background-color: #A8E890;
+   border: 0.5mm solid #367E18;} 
+
+
+.favicon {width: 20px;}
+
