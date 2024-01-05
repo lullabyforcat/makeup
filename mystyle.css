@@ -1,3 +1,6 @@
+
+*{padding: 0px;
+margin:0px}
 .wrapper
 {
 background-image: url("./images/ornaments-5794746_1920.jpg");
@@ -10,11 +13,13 @@ padding: 15px;
 {width: 130px;
 max-height: 40px;
 margin: 5px;
+padding: 5px;
 }
 
 .row
 {display: flex;
-flex-wrap: wrap;}
+flex-wrap: wrap;
+}
 
 .button  {
  display: flex;
@@ -34,13 +39,16 @@ margin-left: 5px
 }
 
 h2{size: 5px;
-font-family: 'Josefin Sans', sans-serif;}
+font-family: 'Josefin Sans', sans-serif;
+margin: 7px;
+padding: 5px;}
 
 img {width: 35px;}
 
 h4
 {font-family: 'Jost', sans-serif;
-}
+   margin: 3px;
+   padding: 3px;}
 
 a{
 text-decoration: none;
@@ -50,6 +58,13 @@ margin: 5px;
 color: #000;
 font-family: 'Afacad', sans-serif;}
 
+.mainpage {text-decoration: none;
+   margin: 5px;
+   color: #000;
+   background: none;
+   border: none;
+   font-family: 'Afacad', sans-serif;
+vertical-align: top;}
 
 .alladmins, .wwwadmins
 {
