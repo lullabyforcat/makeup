@@ -16,10 +16,19 @@ margin: 5px;
 padding: 5px;
 }
 
+.main_window
+{height: 100vh;
+}
+
 .row
 {display: flex;
 flex-wrap: wrap;
 }
+
+.column
+{display: flex;
+   flex-direction: column;
+   }
 
 .button  {
  display: flex;
@@ -38,17 +47,12 @@ font-weight: bold;
 margin-left: 5px
 }
 
-h2{size: 5px;
+h2{size: 3px;
 font-family: 'Josefin Sans', sans-serif;
-margin: 7px;
+margin: 3px;
 padding: 5px;}
 
 img {width: 35px;}
-
-h4
-{font-family: 'Jost', sans-serif;
-   margin: 3px;
-   padding: 3px;}
 
 a{
 text-decoration: none;
