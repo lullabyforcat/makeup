@@ -23,6 +23,7 @@ padding: 5px;
 .row
 {display: flex;
 flex-wrap: wrap;
+vertical-align: middle;
 }
 
 .column
@@ -40,14 +41,15 @@ margin: 5px;
 gap: 5px
 }
 
-summary {
+/* summary {
 font-family: 'Afacad', sans-serif;
 font-size: 12pt;
 font-weight: bold;
 margin-left: 5px
-}
+} */
 
-h2{size: 3px;
+h4, summary {
+font-size: 14pt;
 font-family: 'Josefin Sans', sans-serif;
 margin: 3px;
 padding: 5px;}
