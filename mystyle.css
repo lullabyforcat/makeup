@@ -48,7 +48,7 @@ font-weight: bold;
 margin-left: 5px
 } */
 
-h4, summary {
+h4, summary, p {
 font-size: 14pt;
 font-family: 'Josefin Sans', sans-serif;
 margin: 3px;
